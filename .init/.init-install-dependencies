@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/admin-dashboard-for-user-management-and-authentication-514/fido2_frontend"
+}
